@@ -5,7 +5,14 @@
 - [kaggle competiition : Plan Seedings Classification](https://www.kaggle.com/c/plant-seedlings-classification/overview)
 ![image](https://user-images.githubusercontent.com/64202709/172854222-a12dd421-bc34-4035-b2a2-843ba31a7a2d.png)
 
+## Try
+1. Preprocessing - [Remove_Background](https://github.com/jihyeheo/DAC3_Plant_Seedlings_Classification_Project/blob/main/3.%20Fail_code/Background_Remote_fail.ipynb) (but Fail)
 
+![image](https://user-images.githubusercontent.com/64202709/172855114-60f98905-eeb3-42c3-9a54-ea561a2786fe.png)
+![image](https://user-images.githubusercontent.com/64202709/172855152-18d8dd90-f234-4cde-b83d-80bc9003492e.png)
+
+2. Modeling - [CNN](https://github.com/jihyeheo/DAC3_Plant_Seedlings_Classification_Project/blob/main/1.%20Code_CNN/Plant_Seedlings_Classification_with_CNN.ipynb)<br>
+3. Modeling - [ResNet](https://github.com/jihyeheo/DAC3_Plant_Seedlings_Classification_Project/blob/main/1.%20Code_Resnet/Plant_Seedlings_Classification_with_Resnet.ipynb)
 
 ## Result
 - **Vanilla CNN**
