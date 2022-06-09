@@ -1,7 +1,7 @@
-# Data_analysis_Club_project3
+# Data_analysis_Club_project3 [20200830 ~ 20200918]
 ## 데이터 분석 동아리(수DA쟁이) 3번째 팀 프로젝트
 - 오서영, 허지혜
-- 2020.09.18 Presentation
+- 20200918 Presentation
 - [kaggle competiition : Plan Seedings Classification](https://www.kaggle.com/c/plant-seedlings-classification/overview)
 ![image](https://user-images.githubusercontent.com/64202709/172854222-a12dd421-bc34-4035-b2a2-843ba31a7a2d.png)
 
